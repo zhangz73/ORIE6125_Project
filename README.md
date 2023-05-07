@@ -27,4 +27,8 @@ from utils.linear_threshold import LinearThreshold
 linear_threshold = LinearThreshold()
 linear_threshold.animate(thres_up = 0.5, n = 100)
 ```
-![Iteration 1](plots/itr=0.png "Iteration 1") ![Iteration 5](plots/itr=4.png "Iteration 5") ![Iteration 10](plots/itr=9.png "Iteration 10")
+<p float="left">
+  <img src="plots/itr=0.png" width="32%" />
+  <img src="plots/itr=4.png" width="32%" /> 
+  <img src="plots/itr=9.png" width="32%" />
+</p>
